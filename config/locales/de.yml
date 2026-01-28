@@ -5,8 +5,8 @@ de:
       collection:
         ai_indexable: Verwendung für KI-Training zulassen
         caption: Beschreibung
-        collection: Übergeordnete Sammlung
-        indexable: Indizierung der Suche zulassen
+        collection: Übergeordnete Kollektion
+        indexable: Suchindizierung zulassen
         models: Modelle
         name: Name
         notes: Beschreibung
@@ -15,7 +15,7 @@ de:
         avatar: Avatar-Bild
         banner: Banner-Bild
         caption: Beschreibung
-        indexable: Indizierung der Suche zulassen
+        indexable: Suchindizierung zulassen
         name: Autor
         notes: Beschreibung
         slug: Benutzername
@@ -40,7 +40,7 @@ de:
       group:
         description: Beschreibung
         invitations:
-        memberships: Mitgliedschaft
+        memberships:
         name: Name
         typed_id: Berechtigungsa-ID
       library:
@@ -69,7 +69,7 @@ de:
         creator: Autor
         creator_id: Autor
         images: Bilder
-        indexable: Indizierung der Suche zulassen
+        indexable: Suchindizierung zulassen
         library_id: Sammlung
         license: Lizenz
         model_files: Dateien
